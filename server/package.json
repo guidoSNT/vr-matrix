@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server to receive data from the vr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guido",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "serialport": "^12.0.0"
+  }
+}
